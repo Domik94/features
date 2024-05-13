@@ -1,4 +1,4 @@
-/damir_admin#!/bin/bash
+/damir_admin#//bin/bash
 
 set -e
 
